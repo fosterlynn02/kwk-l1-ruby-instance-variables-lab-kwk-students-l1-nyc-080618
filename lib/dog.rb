@@ -1,6 +1,6 @@
 # dog.rb
 
-class Dog.rb 
+class Dog
   def intialize=("this_dog_names")
   
   @this_dog_names= this_dog_names
