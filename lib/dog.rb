@@ -1,15 +1,15 @@
 # dog.rb
 
 class Dog
-  def intialize=("this_dog_names")
+  def intialize (this_dogs_name)
   
-  @this_dog_names= this_dog_names
+    @this_dogs_name= this_dogs_name
   end 
 end 
 
-lassie = Dog.new 
-lassie.name= "lassie"
+# lassie = Dog.new
+# lassie.name= "lassie"
 
-puts lassie.name 
+# puts lassie.name 
 
 
