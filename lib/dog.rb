@@ -10,7 +10,7 @@ class Dog
     @this_dogs_name
   end
   
-  def name=()
+  def name=(l)
 end 
 
 # lassie = Dog.new
