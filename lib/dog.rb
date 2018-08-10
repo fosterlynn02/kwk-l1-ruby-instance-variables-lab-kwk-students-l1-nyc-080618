@@ -5,5 +5,10 @@ class Dog.rb
   
   @this_dog_names= this_dog_names
   end 
+end 
 
-lassie = Dog 
+lassie = Dog.new 
+lassie.name= "lassie"
+
+puts lassie.name 
+end 
